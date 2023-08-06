@@ -22,7 +22,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/results-summary-component-using-html-and-css-tqaGhmCZ8O
+- Solution URL: https://www.frontendmentor.io/solutions/order-summary-card-using-html-and-css-yTeCgYB_UY
 - Live page: https://corrine2212.github.io/order-summary-card/
 
 ## My process
